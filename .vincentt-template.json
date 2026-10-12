@@ -33,6 +33,17 @@
     "src/Scene.tsx",
     "src/FaceBoundingBox.tsx",
     "src/FooterHud.tsx",
-    "src/HandBoundingBox.tsx"
+    "src/HandBoundingBox.tsx",
+    "src/DevMediaSwitcher.tsx",
+    "src/clones/Clones.tsx",
+    "src/clones/ExperienceStatus.tsx",
+    "src/clones/Prompt.tsx",
+    "src/clones/config.ts",
+    "src/clones/motion.ts",
+    "src/clones/motion.test.ts",
+    "src/clones/timeline.ts",
+    "src/clones/timeline.test.ts",
+    "src/clones/burst.ts",
+    "src/clones/burst.test.ts"
   ]
 }

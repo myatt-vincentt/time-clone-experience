@@ -1,3 +1,15 @@
+# Time Clone
+
+Delayed copies of you step out to your left and right, a chorus line where each copy is 0.25 s
+behind the last (rim-lit, over a softly blurred room with a soft vignette). The more you move, the more clones come out (up to 8); stand still and they step back in. Jump or make a very fast move and the line bursts wider, then snaps back.
+
+- Dev preview without a camera: the media switcher (☰) starts on the SDK's built-in "Person
+  Fullbody" video, with every SDK sample to pick from. Nothing to download. Optionally drop your
+  own clip at `dev-media/dancing.mp4` (git-ignored, never shipped; see `dev-media/README.md`).
+- Tuning: `src/clones/config.ts`. How it works: `PLAN.md`.
+
+---
+
 # v2-template
 
 The Vincentt starter app: a real React + R3F + Vincentt XR SDK (`@vincentt-xr/sdk`)
